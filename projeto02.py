@@ -13,7 +13,7 @@ maxima = fechamento.max()
 minima = fechamento.min()
 valor_medio = fechamento.mean()
 
-destinatario = "xxxxxxxxxxxxxxx@gmail.com"
+destinatario = "________________________@gmail.com"
 assunto = "Análises do Projeto 2020"
 
 mensagem = f""" 
